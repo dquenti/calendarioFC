@@ -41,7 +41,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-4️⃣ Abre el navegador en [http://localhost:8501](http://localhost:8501) y explora los fondos disponibles.
+4️⃣ Abre el navegador y explora los fondos disponibles.
 
 ## 📌 Capturas de Pantalla
 ✨ **Vista del Gráfico de Gantt**
